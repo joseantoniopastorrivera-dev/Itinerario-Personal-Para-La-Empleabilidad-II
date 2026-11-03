@@ -1,0 +1,5 @@
+# Archivos de bloqueo temporales de LibreOffice
+.~lock.*#
+
+# Scripts temporales
+*.bat
